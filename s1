@@ -1,4 +1,9 @@
 {
+  
+"serverDetails" :{ 
+  "serverName": "USA #1"
+},
+"v2Config" :{
     "dns": {
       "hosts": {
         "domain:googleapis.cn": "googleapis.com"
@@ -113,3 +118,4 @@
       ]
     }
   }
+}
